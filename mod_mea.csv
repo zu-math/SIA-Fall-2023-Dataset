@@ -1,465 +1,410 @@
 Academic_Year,Institution_Type_EN,Campus_Zone_EN,LocalFlag_EN,Gender_EN,Bachelors,Certificate,Diploma,Doctorate,Graduate Diploma,Higher Diploma,Masters, Total 
-2012-2013,Federal,Abu Dhabi,Expat,Female,235,19,55,8,80,40,40, 477 
-2012-2013,Federal,Abu Dhabi,Expat,Male,126,19,10,8,80,1,42, 286 
-2012-2013,Federal,Abu Dhabi,Local,Female,"1,838",5,532,8,80,192,280," 2,935 "
-2012-2013,Federal,Abu Dhabi,Local,Male,886,54,229,8,80,193,185," 1,635 "
-2012-2013,Federal,Dubai,Expat,Female,4,19,55,8,80,40,132, 338 
-2012-2013,Federal,Dubai,Expat,Male,1,19,55,8,80,40,132, 335 
-2012-2013,Federal,Dubai,Local,Female,709,19,149,8,80,199,109," 1,273 "
-2012-2013,Federal,Dubai,Local,Male,316,19,73,8,80,201,10, 707 
-2012-2013,Federal,Fujairah,Local,Female,134,19,137,8,80,6,132, 516 
-2012-2013,Federal,Fujairah,Local,Male,10,14,41,8,80,1,132, 286 
-2012-2013,Federal,Ras Al Khaimah,Local,Female,85,19,143,8,80,48,15, 398 
-2012-2013,Federal,Ras Al Khaimah,Local,Male,40,19,35,8,80,34,5, 221 
-2012-2013,Federal,Sharjah,Local,Female,351,19,128,8,80,163,9, 758 
-2012-2013,Federal,Sharjah,Local,Male,102,19,58,8,80,25,4, 296 
-2012-2013,Non-Federal,Abu Dhabi,Expat,Female,564,1,218,8,650,40,166," 1,647 "
-2012-2013,Non-Federal,Abu Dhabi,Expat,Male,386,19,122,8,62,40,200, 837 
-2012-2013,Non-Federal,Abu Dhabi,Local,Female,476,8,228,8,84,40,123, 967 
-2012-2013,Non-Federal,Abu Dhabi,Local,Male,559,16,286,8,72,16,131," 1,088 "
-2012-2013,Non-Federal,Ajman,Expat,Female,382,19,55,8,99,40,20, 623 
-2012-2013,Non-Federal,Ajman,Expat,Male,291,19,55,8,5,40,2, 420 
-2012-2013,Non-Federal,Ajman,Local,Female,141,19,55,8,1,40,10, 274 
-2012-2013,Non-Federal,Ajman,Local,Male,160,19,55,8,80,40,12, 374 
-2012-2013,Non-Federal,Dubai,Expat,Female,914,19,20,2,16,40,406," 1,417 "
-2012-2013,Non-Federal,Dubai,Expat,Male,599,3,43,2,9,1,476," 1,133 "
-2012-2013,Non-Federal,Dubai,Local,Female,375,1,9,5,5,3,245, 643 
-2012-2013,Non-Federal,Dubai,Local,Male,890,6,18,8,1,4,457," 1,384 "
-2012-2013,Non-Federal,Fujairah,Expat,Female,64,19,55,8,186,40,132, 504 
-2012-2013,Non-Federal,Fujairah,Expat,Male,27,19,55,8,80,40,132, 361 
-2012-2013,Non-Federal,Fujairah,Local,Female,148,19,4,8,1,40,132, 352 
-2012-2013,Non-Federal,Fujairah,Local,Male,100,19,55,8,80,40,132, 434 
-2012-2013,Non-Federal,Ras Al Khaimah,Expat,Female,155,19,55,8,80,40,6, 363 
-2012-2013,Non-Federal,Ras Al Khaimah,Expat,Male,78,19,55,8,80,40,2, 282 
-2012-2013,Non-Federal,Ras Al Khaimah,Local,Female,86,19,55,8,80,40,3, 291 
-2012-2013,Non-Federal,Ras Al Khaimah,Local,Male,29,19,55,8,80,40,132, 363 
-2012-2013,Non-Federal,Sharjah,Expat,Female,894,19,2,8,80,5,63," 1,071 "
-2012-2013,Non-Federal,Sharjah,Expat,Male,744,19,2,8,80,40,88, 981 
-2012-2013,Non-Federal,Sharjah,Local,Female,611,19,51,8,80,40,92, 901 
-2012-2013,Non-Federal,Sharjah,Local,Male,286,19,14,8,80,40,160, 607 
-2013-2014,Federal,Abu Dhabi,Expat,Female,249,19,55,11,80,40,82, 536 
-2013-2014,Federal,Abu Dhabi,Expat,Male,164,19,3,2,80,40,73, 381 
-2013-2014,Federal,Abu Dhabi,Local,Female,"1,848",19,92,4,80,182,310," 2,535 "
-2013-2014,Federal,Abu Dhabi,Local,Male,948,19,136,8,80,189,177," 1,557 "
-2013-2014,Federal,Dubai,Expat,Female,8,19,55,8,80,40,4, 214 
-2013-2014,Federal,Dubai,Expat,Male,1,19,55,8,80,40,5, 208 
-2013-2014,Federal,Dubai,Local,Female,826,19,14,8,80,79,30," 1,056 "
-2013-2014,Federal,Dubai,Local,Male,438,19,14,8,80,100,38, 697 
-2013-2014,Federal,Fujairah,Local,Female,158,19,20,8,80,10,6, 301 
-2013-2014,Federal,Fujairah,Local,Male,24,19,6,8,80,40,1, 178 
-2013-2014,Federal,Ras Al Khaimah,Local,Female,116,19,11,8,80,18,8, 260 
-2013-2014,Federal,Ras Al Khaimah,Local,Male,67,19,9,8,80,10,1, 194 
-2013-2014,Federal,Sharjah,Local,Female,354,19,10,8,80,45,2, 518 
-2013-2014,Federal,Sharjah,Local,Male,91,19,6,8,80,16,1, 221 
-2013-2014,Federal,Abu Dhabi,Expat,Female,424,19,55,8,80,40,1, 627 
-2013-2014,Federal,Abu Dhabi,Local,Female,1,19,55,8,80,40,3, 206 
-2013-2014,Federal,Abu Dhabi,Local,Male,4,19,55,8,80,40,132, 338 
-2013-2014,Non-Federal,Abu Dhabi,Expat,Female,668,19,294,8,799,40,87," 1,915 "
-2013-2014,Non-Federal,Abu Dhabi,Expat,Male,514,1,182,8,77,40,138, 960 
-2013-2014,Non-Federal,Abu Dhabi,Local,Female,627,1,396,8,48,3,176," 1,259 "
-2013-2014,Non-Federal,Abu Dhabi,Local,Male,"1,036",10,478,8,53,64,174," 1,823 "
-2013-2014,Non-Federal,Ajman,Expat,Female,538,19,55,8,51,40,21, 732 
-2013-2014,Non-Federal,Ajman,Expat,Male,473,19,55,8,6,40,10, 611 
-2013-2014,Non-Federal,Ajman,Local,Female,186,19,55,8,80,40,15, 403 
-2013-2014,Non-Federal,Ajman,Local,Male,195,19,55,8,80,40,7, 404 
-2013-2014,Non-Federal,Dubai,Expat,Female,"1,183",19,51,4,4,15,428," 1,704 "
-2013-2014,Non-Federal,Dubai,Expat,Male,891,1,68,8,3,56,553," 1,580 "
-2013-2014,Non-Federal,Dubai,Local,Female,472,1,12,5,1,40,365, 896 
-2013-2014,Non-Federal,Dubai,Local,Male,"1,239",4,22,1,1,5,"1,030"," 2,302 "
-2013-2014,Non-Federal,Fujairah,Expat,Female,63,19,55,8,172,40,132, 489 
-2013-2014,Non-Federal,Fujairah,Expat,Male,46,19,55,8,80,40,132, 380 
-2013-2014,Non-Federal,Fujairah,Local,Female,138,19,55,8,1,40,132, 393 
-2013-2014,Non-Federal,Fujairah,Local,Male,121,19,55,8,80,40,132, 455 
-2013-2014,Non-Federal,Ras Al Khaimah,Expat,Female,312,19,55,8,80,40,15, 529 
-2013-2014,Non-Federal,Ras Al Khaimah,Expat,Male,136,19,55,8,80,40,3, 341 
-2013-2014,Non-Federal,Ras Al Khaimah,Local,Female,141,19,55,8,80,40,7, 350 
-2013-2014,Non-Federal,Ras Al Khaimah,Local,Male,22,19,55,8,80,40,132, 356 
-2013-2014,Non-Federal,Sharjah,Expat,Female,727,19,109,8,3,40,51, 957 
-2013-2014,Non-Federal,Sharjah,Expat,Male,539,19,55,8,80,40,80, 821 
-2013-2014,Non-Federal,Sharjah,Local,Female,608,19,61,1,80,40,103, 912 
-2013-2014,Non-Federal,Sharjah,Local,Male,291,19,16,1,80,40,140, 587 
-2014-2015,Federal,Abu Dhabi,Expat,Female,277,19,3,9,80,2,85, 475 
-2014-2015,Federal,Abu Dhabi,Expat,Male,149,19,1,5,80,1,83, 338 
-2014-2015,Federal,Abu Dhabi,Local,Female,"1,843",20,166,6,80,113,298," 2,526 "
-2014-2015,Federal,Abu Dhabi,Local,Male,754,116,51,8,80,170,144," 1,323 "
-2014-2015,Federal,Dubai,Expat,Female,8,19,1,8,80,40,5, 161 
-2014-2015,Federal,Dubai,Expat,Male,7,19,55,8,80,40,5, 214 
-2014-2015,Federal,Dubai,Local,Female,880,73,70,8,80,103,27," 1,241 "
-2014-2015,Federal,Dubai,Local,Male,206,21,14,8,80,71,34, 434 
-2014-2015,Federal,Fujairah,Local,Female,102,19,7,8,80,11,3, 230 
-2014-2015,Federal,Fujairah,Local,Male,10,19,1,8,80,8,132, 258 
-2014-2015,Federal,Ras Al Khaimah,Local,Female,106,2,26,8,80,40,2, 264 
-2014-2015,Federal,Ras Al Khaimah,Local,Male,41,9,14,8,80,7,132, 291 
-2014-2015,Federal,Sharjah,Local,Female,205,19,20,8,80,36,1, 369 
-2014-2015,Federal,Sharjah,Local,Male,50,1,11,8,80,9,132, 291 
-2014-2015,Federal,Abu Dhabi,Expat,Female,424,19,55,8,80,40,1, 627 
-2014-2015,Federal,Abu Dhabi,Local,Female,424,19,55,8,80,40,4, 630 
-2014-2015,Federal,Abu Dhabi,Local,Male,424,19,55,8,80,40,1, 627 
-2014-2015,Non-Federal,Abu Dhabi,Expat,Female,573,4,349,8,750,40,141," 1,865 "
-2014-2015,Non-Federal,Abu Dhabi,Expat,Male,508,3,145,1,68,40,219, 984 
-2014-2015,Non-Federal,Abu Dhabi,Local,Female,639,6,194,8,1,27,274," 1,149 "
-2014-2015,Non-Federal,Abu Dhabi,Local,Male,"1,365",9,397,1,80,65,258," 2,175 "
-2014-2015,Non-Federal,Ajman,Expat,Female,616,19,2,8,78,40,20, 783 
-2014-2015,Non-Federal,Ajman,Expat,Male,482,19,55,8,5,40,15, 624 
-2014-2015,Non-Federal,Ajman,Local,Female,203,19,8,8,80,40,18, 376 
-2014-2015,Non-Federal,Ajman,Local,Male,164,19,55,8,80,40,23, 389 
-2014-2015,Non-Federal,Dubai,Expat,Female,"1,209",16,53,2,80,36,459," 1,855 "
-2014-2015,Non-Federal,Dubai,Expat,Male,725,40,119,2,80,92,576," 1,634 "
-2014-2015,Non-Federal,Dubai,Local,Female,310,19,11,7,80,3,332, 762 
-2014-2015,Non-Federal,Dubai,Local,Male,"1,006",19,37,1,80,40,709," 1,892 "
-2014-2015,Non-Federal,Fujairah,Expat,Female,89,19,55,8,252,40,132, 595 
-2014-2015,Non-Federal,Fujairah,Expat,Male,37,19,55,8,80,40,132, 371 
-2014-2015,Non-Federal,Fujairah,Local,Female,103,19,1,8,80,40,132, 383 
-2014-2015,Non-Federal,Fujairah,Local,Male,99,19,55,8,80,40,132, 433 
-2014-2015,Non-Federal,Ras Al Khaimah,Expat,Female,168,19,55,8,80,40,9, 379 
-2014-2015,Non-Federal,Ras Al Khaimah,Expat,Male,67,19,55,8,80,40,3, 272 
-2014-2015,Non-Federal,Ras Al Khaimah,Local,Female,46,19,55,8,80,40,16, 264 
-2014-2015,Non-Federal,Ras Al Khaimah,Local,Male,15,19,55,8,80,40,1, 218 
-2014-2015,Non-Federal,Sharjah,Expat,Female,"1,184",19,51,8,80,40,87," 1,469 "
-2014-2015,Non-Federal,Sharjah,Expat,Male,925,19,16,8,80,40,119," 1,207 "
-2014-2015,Non-Federal,Sharjah,Local,Female,807,19,50,2,80,40,128," 1,126 "
-2014-2015,Non-Federal,Sharjah,Local,Male,356,19,11,5,80,40,131, 642 
-2014-2015,Non-Federal,Umm Al Quwain,Local,Female,2,19,55,8,80,40,132, 336 
-2014-2015,Non-Federal,Umm Al Quwain,Local,Male,1,19,55,8,80,40,132, 335 
-2015-2016,Federal,Abu Dhabi,Expat,Female,403,19,6,5,80,40,81, 634 
-2015-2016,Federal,Abu Dhabi,Expat,Male,194,19,55,4,80,40,62, 454 
-2015-2016,Federal,Abu Dhabi,Local,Female,"2,211",19,146,6,80,4,225," 2,691 "
-2015-2016,Federal,Abu Dhabi,Local,Male,729,19,39,3,80,19,122," 1,011 "
-2015-2016,Federal,Dubai,Expat,Female,16,19,55,8,80,40,6, 224 
-2015-2016,Federal,Dubai,Expat,Male,8,19,1,8,80,40,4, 160 
-2015-2016,Federal,Dubai,Local,Female,908,19,25,8,80,1,18," 1,059 "
-2015-2016,Federal,Dubai,Local,Male,394,19,13,8,80,12,5, 531 
-2015-2016,Federal,Fujairah,Local,Female,169,19,26,8,80,16,8, 326 
-2015-2016,Federal,Fujairah,Local,Male,57,19,28,8,80,40,132, 364 
-2015-2016,Federal,Ras Al Khaimah,Local,Female,189,19,45,8,80,40,5, 386 
-2015-2016,Federal,Ras Al Khaimah,Local,Male,68,19,48,8,80,40,3, 266 
-2015-2016,Federal,Sharjah,Expat,Female,1,19,1,8,80,40,132, 281 
-2015-2016,Federal,Sharjah,Local,Female,288,19,29,8,80,2,132, 558 
-2015-2016,Federal,Sharjah,Local,Male,74,19,8,8,80,40,132, 361 
-2015-2016,Federal,Abu Dhabi,Expat,Male,424,19,55,8,80,40,1, 627 
-2015-2016,Federal,Abu Dhabi,Local,Male,424,19,55,8,80,40,2, 628 
-2015-2016,Non-Federal,Abu Dhabi,Expat,Female,682,51,289,4,927,50,185," 2,188 "
-2015-2016,Non-Federal,Abu Dhabi,Expat,Male,513,11,92,9,47,6,188, 866 
-2015-2016,Non-Federal,Abu Dhabi,Local,Female,693,23,222,2,30,34,340," 1,344 "
-2015-2016,Non-Federal,Abu Dhabi,Local,Male,"1,169",10,404,5,19,83,258," 1,948 "
-2015-2016,Non-Federal,Ajman,Expat,Female,692,19,19,8,12,40,36, 826 
-2015-2016,Non-Federal,Ajman,Expat,Male,581,19,7,8,80,40,18, 753 
-2015-2016,Non-Federal,Ajman,Local,Female,212,19,55,8,80,40,11, 425 
-2015-2016,Non-Federal,Ajman,Local,Male,269,19,55,8,1,40,21, 413 
-2015-2016,Non-Federal,Dubai,Expat,Female,"1,396",10,39,4,80,56,450," 2,035 "
-2015-2016,Non-Federal,Dubai,Expat,Male,855,31,122,1,80,91,593," 1,773 "
-2015-2016,Non-Federal,Dubai,Local,Female,414,1,8,12,80,18,376, 909 
-2015-2016,Non-Federal,Dubai,Local,Male,"1,981",1,33,8,80,13,424," 2,540 "
-2015-2016,Non-Federal,Fujairah,Expat,Female,95,19,55,8,67,40,132, 416 
-2015-2016,Non-Federal,Fujairah,Expat,Male,47,19,55,8,80,40,132, 381 
-2015-2016,Non-Federal,Fujairah,Local,Female,119,19,55,8,80,40,132, 453 
-2015-2016,Non-Federal,Fujairah,Local,Male,86,19,55,8,80,40,132, 420 
-2015-2016,Non-Federal,Ras Al Khaimah,Expat,Female,152,19,55,8,80,40,17, 371 
-2015-2016,Non-Federal,Ras Al Khaimah,Expat,Male,69,19,55,8,80,40,4, 275 
-2015-2016,Non-Federal,Ras Al Khaimah,Local,Female,44,19,55,8,80,40,21, 267 
-2015-2016,Non-Federal,Ras Al Khaimah,Local,Male,6,19,55,8,80,40,1, 209 
-2015-2016,Non-Federal,Sharjah,Expat,Female,830,19,8,8,80,4,37, 986 
-2015-2016,Non-Federal,Sharjah,Expat,Male,593,19,14,3,80,40,45, 794 
-2015-2016,Non-Federal,Sharjah,Local,Female,784,19,146,3,80,40,122," 1,194 "
-2015-2016,Non-Federal,Sharjah,Local,Male,255,19,89,9,80,40,126, 618 
-2015-2016,Non-Federal,Umm Al Quwain,Expat,Female,2,19,55,8,80,40,132, 336 
-2015-2016,Non-Federal,Umm Al Quwain,Expat,Male,5,19,55,8,80,40,132, 339 
-2015-2016,Non-Federal,Umm Al Quwain,Local,Female,5,19,55,8,80,40,132, 339 
-2015-2016,Non-Federal,Umm Al Quwain,Local,Male,7,19,55,8,80,40,132, 341 
-2016-2017,Federal,Abu Dhabi,Expat,Female,402,19,5,5,80,40,68, 619 
-2016-2017,Federal,Abu Dhabi,Expat,Male,227,19,1,3,80,40,46, 416 
-2016-2017,Federal,Abu Dhabi,Local,Female,"2,490",1,177,9,80,4,146," 2,907 "
-2016-2017,Federal,Abu Dhabi,Local,Male,944,3,33,5,80,6,65," 1,136 "
-2016-2017,Federal,Dubai,Expat,Female,25,19,1,8,80,40,2, 175 
-2016-2017,Federal,Dubai,Expat,Male,10,19,55,8,80,40,1, 213 
-2016-2017,Federal,Dubai,Local,Female,994,19,27,8,80,40,7," 1,175 "
-2016-2017,Federal,Dubai,Local,Male,446,19,5,8,80,1,132, 691 
-2016-2017,Federal,Fujairah,Expat,Female,1,19,1,8,80,40,132, 281 
-2016-2017,Federal,Fujairah,Local,Female,306,19,39,8,80,1,132, 585 
-2016-2017,Federal,Fujairah,Local,Male,47,19,8,8,80,40,132, 334 
-2016-2017,Federal,Ras Al Khaimah,Expat,Female,8,19,55,8,80,40,132, 342 
-2016-2017,Federal,Ras Al Khaimah,Expat,Male,2,19,55,8,80,40,132, 336 
-2016-2017,Federal,Ras Al Khaimah,Local,Female,264,19,41,8,80,40,4, 456 
-2016-2017,Federal,Ras Al Khaimah,Local,Male,97,19,14,8,80,40,132, 390 
-2016-2017,Federal,Sharjah,Expat,Female,15,19,2,8,80,40,132, 296 
-2016-2017,Federal,Sharjah,Expat,Male,9,19,55,8,80,40,132, 343 
-2016-2017,Federal,Sharjah,Local,Female,388,19,44,8,80,40,132, 711 
-2016-2017,Federal,Sharjah,Local,Male,197,19,14,8,80,40,132, 490 
-2016-2017,Non-Federal,Abu Dhabi,Expat,Female,751,19,117,11,161,27,166," 1,252 "
-2016-2017,Non-Federal,Abu Dhabi,Expat,Male,523,19,91,22,12,1,278, 946 
-2016-2017,Non-Federal,Abu Dhabi,Local,Female,855,2,152,10,80,51,393," 1,543 "
-2016-2017,Non-Federal,Abu Dhabi,Local,Male,"1,426",3,232,5,80,65,357," 2,168 "
-2016-2017,Non-Federal,Ajman,Expat,Female,738,19,5,8,7,40,20, 837 
-2016-2017,Non-Federal,Ajman,Expat,Male,619,19,1,8,80,40,27, 794 
-2016-2017,Non-Federal,Ajman,Local,Female,226,19,4,8,1,40,25, 323 
-2016-2017,Non-Federal,Ajman,Local,Male,299,19,55,8,80,40,33, 534 
-2016-2017,Non-Federal,Dubai,Expat,Female,"1,492",10,50,4,80,21,393," 2,050 "
-2016-2017,Non-Federal,Dubai,Expat,Male,914,14,147,5,80,83,541," 1,784 "
-2016-2017,Non-Federal,Dubai,Local,Female,376,1,19,14,80,4,319, 813 
-2016-2017,Non-Federal,Dubai,Local,Male,"1,362",1,19,7,80,14,427," 1,910 "
-2016-2017,Non-Federal,Fujairah,Expat,Female,119,19,55,8,80,40,132, 453 
-2016-2017,Non-Federal,Fujairah,Expat,Male,50,19,55,8,80,40,132, 384 
-2016-2017,Non-Federal,Fujairah,Local,Female,125,19,55,8,80,40,132, 459 
-2016-2017,Non-Federal,Fujairah,Local,Male,104,19,55,8,80,40,132, 438 
-2016-2017,Non-Federal,Ras Al Khaimah,Expat,Female,192,19,55,8,80,40,8, 402 
-2016-2017,Non-Federal,Ras Al Khaimah,Expat,Male,93,19,55,8,80,40,13, 308 
-2016-2017,Non-Federal,Ras Al Khaimah,Local,Female,60,19,55,8,80,40,46, 308 
-2016-2017,Non-Federal,Ras Al Khaimah,Local,Male,7,19,55,8,80,40,15, 224 
-2016-2017,Non-Federal,Sharjah,Expat,Female,"1,554",19,21,1,5,4,130," 1,734 "
-2016-2017,Non-Federal,Sharjah,Expat,Male,991,19,9,7,80,1,110," 1,217 "
-2016-2017,Non-Federal,Sharjah,Local,Female,740,19,78,1,1,1,156, 996 
-2016-2017,Non-Federal,Sharjah,Local,Male,288,19,52,10,80,40,112, 601 
-2016-2017,Non-Federal,Umm Al Quwain,Expat,Female,8,19,55,8,80,40,132, 342 
-2016-2017,Non-Federal,Umm Al Quwain,Expat,Male,1,19,55,8,80,40,132, 335 
-2016-2017,Non-Federal,Umm Al Quwain,Local,Female,8,19,55,8,80,40,132, 342 
-2016-2017,Non-Federal,Umm Al Quwain,Local,Male,3,19,55,8,80,40,132, 337 
-2017-2018,Federal,Abu Dhabi,Expat,Female,434,19,4,6,80,40,68, 651 
-2017-2018,Federal,Abu Dhabi,Expat,Male,228,19,2,3,80,40,50, 422 
-2017-2018,Federal,Abu Dhabi,Local,Female,"2,682",175,58,10,80,40,132," 3,177 "
-2017-2018,Federal,Abu Dhabi,Local,Male,987,13,15,6,80,40,52," 1,193 "
-2017-2018,Federal,Dubai,Expat,Female,36,19,1,8,80,40,1, 185 
-2017-2018,Federal,Dubai,Expat,Male,23,19,55,8,80,40,2, 227 
-2017-2018,Federal,Dubai,Local,Female,"1,073",1,17,8,80,40,5," 1,224 "
-2017-2018,Federal,Dubai,Local,Male,455,19,3,8,80,40,1, 606 
-2017-2018,Federal,Fujairah,Expat,Female,5,19,1,8,80,40,132, 285 
-2017-2018,Federal,Fujairah,Expat,Male,4,19,55,8,80,40,132, 338 
-2017-2018,Federal,Fujairah,Local,Female,260,19,8,8,80,40,132, 547 
-2017-2018,Federal,Fujairah,Local,Male,64,19,2,8,80,40,132, 345 
-2017-2018,Federal,Abu Dhabi,Local,Female,424,49,55,8,80,40,132, 788 
-2017-2018,Federal,Ras Al Khaimah,Expat,Female,13,19,1,8,80,40,132, 293 
-2017-2018,Federal,Ras Al Khaimah,Expat,Male,6,19,55,8,80,40,132, 340 
-2017-2018,Federal,Ras Al Khaimah,Local,Female,304,2,7,8,80,40,132, 573 
-2017-2018,Federal,Ras Al Khaimah,Local,Male,114,19,1,8,80,40,132, 394 
-2017-2018,Federal,Sharjah,Expat,Female,53,19,1,8,80,40,132, 333 
-2017-2018,Federal,Sharjah,Expat,Male,15,19,55,8,80,40,132, 349 
-2017-2018,Federal,Sharjah,Local,Female,471,1,7,8,80,40,132, 739 
-2017-2018,Federal,Sharjah,Local,Male,173,19,5,8,80,40,132, 457 
-2017-2018,Non-Federal,Abu Dhabi,Expat,Female,990,7,93,3,491,190,141," 1,915 "
-2017-2018,Non-Federal,Abu Dhabi,Expat,Male,665,19,61,9,53,29,174," 1,010 "
-2017-2018,Non-Federal,Abu Dhabi,Local,Female,990,183,100,7,80,30,325," 1,715 "
-2017-2018,Non-Federal,Abu Dhabi,Local,Male,"1,437",27,125,6,80,14,272," 1,961 "
-2017-2018,Non-Federal,Ajman,Expat,Female,767,19,2,8,29,40,23, 888 
-2017-2018,Non-Federal,Ajman,Expat,Male,548,19,55,8,13,40,34, 717 
-2017-2018,Non-Federal,Ajman,Local,Female,214,19,2,8,80,40,30, 393 
-2017-2018,Non-Federal,Ajman,Local,Male,160,19,55,8,80,40,60, 422 
-2017-2018,Non-Federal,Dubai,Expat,Female,"1,512",15,50,12,1,3,414," 2,007 "
-2017-2018,Non-Federal,Dubai,Expat,Male,"1,030",71,88,7,3,6,469," 1,674 "
-2017-2018,Non-Federal,Dubai,Local,Female,341,3,14,17,80,13,343, 811 
-2017-2018,Non-Federal,Dubai,Local,Male,785,3,31,5,2,6,526," 1,358 "
-2017-2018,Non-Federal,Fujairah,Expat,Female,115,19,55,8,80,40,132, 449 
-2017-2018,Non-Federal,Fujairah,Expat,Male,63,19,1,8,80,40,132, 343 
-2017-2018,Non-Federal,Fujairah,Local,Female,122,19,1,8,80,40,24, 294 
-2017-2018,Non-Federal,Fujairah,Local,Male,89,19,2,8,80,40,8, 246 
-2017-2018,Non-Federal,Abu Dhabi,Expat,Female,27,19,5,8,80,40,132, 311 
-2017-2018,Non-Federal,Abu Dhabi,Expat,Male,424,47,8,8,80,40,132, 739 
-2017-2018,Non-Federal,Abu Dhabi,Local,Female,5,19,9,8,80,40,132, 293 
-2017-2018,Non-Federal,Abu Dhabi,Local,Male,424,25,22,8,80,40,132, 731 
-2017-2018,Non-Federal,Ras Al Khaimah,Expat,Female,371,19,55,8,80,40,12, 585 
-2017-2018,Non-Federal,Ras Al Khaimah,Expat,Male,184,19,55,8,80,40,13, 399 
-2017-2018,Non-Federal,Ras Al Khaimah,Local,Female,107,19,55,8,80,40,48, 357 
-2017-2018,Non-Federal,Ras Al Khaimah,Local,Male,11,19,55,8,80,40,10, 223 
-2017-2018,Non-Federal,Sharjah,Expat,Female,"1,570",19,48,8,8,40,110," 1,803 "
-2017-2018,Non-Federal,Sharjah,Expat,Male,"1,127",16,49,10,7,40,107," 1,356 "
-2017-2018,Non-Federal,Sharjah,Local,Female,750,19,13,3,51,40,163," 1,039 "
-2017-2018,Non-Federal,Sharjah,Local,Male,225,21,8,14,74,40,99, 481 
-2017-2018,Non-Federal,Umm Al Quwain,Expat,Female,26,19,55,8,80,40,132, 360 
-2017-2018,Non-Federal,Umm Al Quwain,Expat,Male,25,19,55,8,80,40,132, 359 
-2017-2018,Non-Federal,Umm Al Quwain,Local,Female,13,19,55,8,80,40,132, 347 
-2017-2018,Non-Federal,Umm Al Quwain,Local,Male,36,3,55,8,80,40,132, 354 
-2018-2019,Federal,Abu Dhabi,Expat,Female,342,19,3,9,80,40,82, 575 
-2018-2019,Federal,Abu Dhabi,Expat,Male,128,19,55,4,80,40,63, 389 
-2018-2019,Federal,Abu Dhabi,Local,Female,"2,992",19,7,13,80,40,192," 3,343 "
-2018-2019,Federal,Abu Dhabi,Local,Male,896,19,5,10,80,40,95," 1,145 "
-2018-2019,Federal,Dubai,Expat,Female,31,19,55,8,80,40,132, 365 
-2018-2019,Federal,Dubai,Expat,Male,6,19,55,8,80,40,132, 340 
-2018-2019,Federal,Dubai,Local,Female,"1,077",19,18,8,80,40,7," 1,249 "
-2018-2019,Federal,Dubai,Local,Male,440,19,55,8,80,40,3, 645 
-2018-2019,Federal,Fujairah,Expat,Female,1,19,55,8,80,40,132, 335 
-2018-2019,Federal,Fujairah,Local,Female,198,19,55,8,80,40,132, 532 
-2018-2019,Federal,Fujairah,Local,Male,74,19,2,8,80,40,132, 355 
-2018-2019,Federal,Ras Al Khaimah,Expat,Female,7,19,55,8,80,40,132, 341 
-2018-2019,Federal,Ras Al Khaimah,Expat,Male,1,19,55,8,80,40,132, 335 
-2018-2019,Federal,Ras Al Khaimah,Local,Female,288,26,12,8,80,40,132, 586 
-2018-2019,Federal,Ras Al Khaimah,Local,Male,82,19,1,8,80,40,132, 362 
-2018-2019,Federal,Sharjah,Expat,Female,26,19,55,8,80,40,132, 360 
-2018-2019,Federal,Sharjah,Expat,Male,6,19,55,8,80,40,132, 340 
-2018-2019,Federal,Sharjah,Local,Female,543,1,2,8,80,40,132, 806 
-2018-2019,Federal,Sharjah,Local,Male,173,19,55,8,80,40,132, 507 
-2018-2019,Non-Federal,Abu Dhabi,Expat,Female,962,19,80,8,366,171,157," 1,763 "
-2018-2019,Non-Federal,Abu Dhabi,Expat,Male,732,19,50,16,62,34,108," 1,021 "
-2018-2019,Non-Federal,Abu Dhabi,Local,Female,"1,110",4,128,4,31,87,516," 1,880 "
-2018-2019,Non-Federal,Abu Dhabi,Local,Male,"1,204",19,99,4,18,42,449," 1,835 "
-2018-2019,Non-Federal,Ajman,Expat,Female,757,19,27,8,75,10,36, 932 
-2018-2019,Non-Federal,Ajman,Expat,Male,571,19,3,8,16,40,35, 692 
-2018-2019,Non-Federal,Ajman,Local,Female,214,19,10,8,3,1,36, 291 
-2018-2019,Non-Federal,Ajman,Local,Male,193,19,55,8,80,40,48, 443 
-2018-2019,Non-Federal,Dubai,Expat,Female,"1,165",25,17,18,63,4,464," 1,756 "
-2018-2019,Non-Federal,Dubai,Expat,Male,"1,024",39,31,8,14,9,528," 1,653 "
-2018-2019,Non-Federal,Dubai,Local,Female,330,1,11,17,4,3,395, 761 
-2018-2019,Non-Federal,Dubai,Local,Male,546,3,7,13,80,5,363," 1,017 "
-2018-2019,Non-Federal,Fujairah,Expat,Female,28,19,55,8,80,40,1, 231 
-2018-2019,Non-Federal,Fujairah,Expat,Male,17,19,55,8,80,40,132, 351 
-2018-2019,Non-Federal,Fujairah,Local,Female,29,19,55,8,80,40,10, 241 
-2018-2019,Non-Federal,Fujairah,Local,Male,26,19,55,8,80,40,22, 250 
-2018-2019,Non-Federal,Ras Al Khaimah,Expat,Female,244,19,55,8,80,40,24, 470 
-2018-2019,Non-Federal,Ras Al Khaimah,Expat,Male,169,19,55,8,80,40,11, 382 
-2018-2019,Non-Federal,Ras Al Khaimah,Local,Female,64,19,3,8,80,40,29, 243 
-2018-2019,Non-Federal,Ras Al Khaimah,Local,Male,13,19,55,8,80,40,13, 228 
-2018-2019,Non-Federal,Sharjah,Expat,Female,"1,539",19,23,2,80,40,119," 1,822 "
-2018-2019,Non-Federal,Sharjah,Expat,Male,"1,053",19,14,5,80,40,101," 1,312 "
-2018-2019,Non-Federal,Sharjah,Local,Female,823,19,95,6,80,40,190," 1,253 "
-2018-2019,Non-Federal,Sharjah,Local,Male,195,19,98,17,80,40,90, 539 
-2018-2019,Non-Federal,Umm Al Quwain,Expat,Female,22,19,55,8,80,40,132, 356 
-2018-2019,Non-Federal,Umm Al Quwain,Expat,Male,18,19,55,8,80,40,132, 352 
-2018-2019,Non-Federal,Umm Al Quwain,Local,Female,18,19,55,8,80,40,132, 352 
-2018-2019,Non-Federal,Umm Al Quwain,Local,Male,43,19,55,8,80,40,132, 377 
-2019-2020,Federal,Abu Dhabi,Expat,Female,243,19,55,16,80,40,75, 528 
-2019-2020,Federal,Abu Dhabi,Expat,Male,147,19,55,9,80,40,37, 387 
-2019-2020,Federal,Abu Dhabi,Local,Female,2807,19,10,8,53,40,173," 3,110 "
-2019-2020,Federal,Abu Dhabi,Local,Male,683,19,1,2,35,40,75, 855 
-2019-2020,Federal,Dubai,Expat,Female,30,19,55,8,80,40,132, 364 
-2019-2020,Federal,Dubai,Expat,Male,11,2,55,8,80,40,132, 328 
-2019-2020,Federal,Dubai,Local,Female,851,26,1,8,80,1,8, 975 
-2019-2020,Federal,Dubai,Local,Male,230,6,55,8,80,40,3, 422 
-2019-2020,Federal,Fujairah,Expat,Female,424,1,55,8,80,40,132, 740 
-2019-2020,Federal,Fujairah,Expat,Male,1,1,55,8,80,40,132, 317 
-2019-2020,Federal,Fujairah,Local,Female,211,27,1,8,80,40,132, 499 
-2019-2020,Federal,Fujairah,Local,Male,42,5,4,8,80,40,132, 311 
-2019-2020,Federal,Ras Al Khaimah,Expat,Female,6,1,55,8,80,40,132, 322 
-2019-2020,Federal,Ras Al Khaimah,Expat,Male,9,1,55,8,80,40,132, 325 
-2019-2020,Federal,Ras Al Khaimah,Local,Female,197,46,14,8,80,40,132, 517 
-2019-2020,Federal,Ras Al Khaimah,Local,Male,69,8,55,8,80,40,132, 392 
-2019-2020,Federal,Sharjah,Expat,Female,32,4,55,8,80,40,132, 351 
-2019-2020,Federal,Sharjah,Expat,Male,14,6,55,8,80,40,132, 335 
-2019-2020,Federal,Sharjah,Local,Female,369,66,3,8,80,40,132, 698 
-2019-2020,Federal,Sharjah,Local,Male,172,8,2,8,80,40,132, 442 
-2019-2020,Non-Federal,Abu Dhabi,Expat,Female,978,19,57,10,334,188,138," 1,724 "
-2019-2020,Non-Federal,Abu Dhabi,Expat,Male,685,19,54,22,76,40,109," 1,005 "
-2019-2020,Non-Federal,Abu Dhabi,Local,Female,1162,117,224,15,2,110,477," 2,107 "
-2019-2020,Non-Federal,Abu Dhabi,Local,Male,1345,7,420,14,1,24,505," 2,316 "
-2019-2020,Non-Federal,Ajman,Expat,Female,848,19,4,8,120,40,47," 1,086 "
-2019-2020,Non-Federal,Ajman,Expat,Male,508,19,55,8,30,40,29, 689 
-2019-2020,Non-Federal,Ajman,Local,Female,254,19,4,8,3,40,57, 385 
-2019-2020,Non-Federal,Ajman,Local,Male,193,19,55,8,1,40,47, 363 
-2019-2020,Non-Federal,Dubai,Expat,Female,1002,2,10,20,62,7,447," 1,550 "
-2019-2020,Non-Federal,Dubai,Expat,Male,988,19,14,14,17,18,447," 1,517 "
-2019-2020,Non-Federal,Dubai,Local,Female,407,19,6,15,1,3,477, 928 
-2019-2020,Non-Federal,Dubai,Local,Male,660,19,5,11,80,8,562," 1,345 "
-2019-2020,Non-Federal,Fujairah,Expat,Female,5,19,55,8,80,40,1, 208 
-2019-2020,Non-Federal,Fujairah,Expat,Male,4,19,55,8,80,40,1, 207 
-2019-2020,Non-Federal,Fujairah,Local,Female,22,19,55,8,80,40,21, 245 
-2019-2020,Non-Federal,Fujairah,Local,Male,27,19,55,8,80,40,11, 240 
-2019-2020,Non-Federal,Ras Al Khaimah,Expat,Female,227,19,55,8,80,40,13, 442 
-2019-2020,Non-Federal,Ras Al Khaimah,Expat,Male,147,19,55,8,80,40,6, 355 
-2019-2020,Non-Federal,Ras Al Khaimah,Local,Female,66,19,4,8,80,40,42, 259 
-2019-2020,Non-Federal,Ras Al Khaimah,Local,Male,9,19,55,8,80,40,13, 224 
-2019-2020,Non-Federal,Sharjah,Expat,Female,1572,19,14,7,80,40,147," 1,879 "
-2019-2020,Non-Federal,Sharjah,Expat,Male,1247,19,13,8,80,40,107," 1,514 "
-2019-2020,Non-Federal,Sharjah,Local,Female,846,19,44,11,80,40,246," 1,286 "
-2019-2020,Non-Federal,Sharjah,Local,Male,229,19,65,19,80,40,154, 606 
-2019-2020,Non-Federal,Umm Al-Quwain,Expat,Female,17,19,55,8,80,40,132, 351 
-2019-2020,Non-Federal,Umm Al-Quwain,Expat,Male,8,19,55,8,80,40,132, 342 
-2019-2020,Non-Federal,Umm Al-Quwain,Local,Female,20,19,55,8,80,40,132, 354 
-2019-2020,Non-Federal,Umm Al-Quwain,Local,Male,41,19,55,8,80,40,132, 375 
-2020-2021,Federal,Abu Dhabi,Expat,Female,247,19,55,15,1,2,78, 417 
-2020-2021,Federal,Abu Dhabi,Expat,Male,119,19,55,14,80,40,45, 372 
-2020-2021,Federal,Abu Dhabi,Local,Female,3527,19,30,9,20,10,208," 3,823 "
-2020-2021,Federal,Abu Dhabi,Local,Male,788,19,84,5,20,4,66, 986 
-2020-2021,Federal,Dubai,Expat,Female,35,1,55,8,80,40,132, 351 
-2020-2021,Federal,Dubai,Expat,Male,10,19,55,8,80,40,132, 344 
-2020-2021,Federal,Dubai,Local,Female,1106,4,5,8,80,11,6," 1,220 "
-2020-2021,Federal,Dubai,Local,Male,292,19,4,8,80,40,7, 450 
-2020-2021,Federal,Fujairah,Expat,Male,1,19,55,8,80,40,132, 335 
-2020-2021,Federal,Fujairah,Local,Female,245,19,2,8,80,2,132, 488 
-2020-2021,Federal,Fujairah,Local,Male,45,19,2,8,80,40,132, 326 
-2020-2021,Federal,Ras Al Khaimah,Expat,Female,2,19,55,8,80,40,132, 336 
-2020-2021,Federal,Ras Al Khaimah,Expat,Male,2,19,55,8,80,40,132, 336 
-2020-2021,Federal,Ras Al Khaimah,Local,Female,277,19,2,8,80,1,132, 519 
-2020-2021,Federal,Ras Al Khaimah,Local,Male,57,19,2,8,80,40,132, 338 
-2020-2021,Federal,Sharjah,Expat,Female,32,19,55,8,80,40,132, 366 
-2020-2021,Federal,Sharjah,Expat,Male,12,2,55,8,80,40,132, 329 
-2020-2021,Federal,Sharjah,Local,Female,532,8,20,8,80,4,132, 784 
-2020-2021,Federal,Sharjah,Local,Male,191,2,13,8,80,2,132, 428 
-2020-2021,Non-Federal,Abu Dhabi,Expat,Female,1010,19,58,14,318,70,143," 1,632 "
-2020-2021,Non-Federal,Abu Dhabi,Expat,Male,724,19,30,3,46,6,134, 962 
-2020-2021,Non-Federal,Abu Dhabi,Local,Female,1307,69,463,16,3,155,617," 2,630 "
-2020-2021,Non-Federal,Abu Dhabi,Local,Male,1727,6,358,11,80,56,607," 2,845 "
-2020-2021,Non-Federal,Ajman,Expat,Female,920,19,14,8,89,40,70," 1,160 "
-2020-2021,Non-Federal,Ajman,Expat,Male,567,19,14,8,22,40,35, 705 
-2020-2021,Non-Federal,Ajman,Local,Female,411,19,6,8,5,40,91, 580 
-2020-2021,Non-Federal,Ajman,Local,Male,276,19,55,8,2,40,44, 444 
-2020-2021,Non-Federal,Dubai,Expat,Female,1161,19,11,21,81,9,439," 1,741 "
-2020-2021,Non-Federal,Dubai,Expat,Male,866,19,6,11,19,19,423," 1,363 "
-2020-2021,Non-Federal,Dubai,Local,Female,388,19,8,34,2,3,474, 928 
-2020-2021,Non-Federal,Dubai,Local,Male,586,19,3,15,1,14,520," 1,158 "
-2020-2021,Non-Federal,Fujairah,Expat,Female,14,19,55,8,80,40,132, 348 
-2020-2021,Non-Federal,Fujairah,Expat,Male,4,19,1,8,80,40,1, 153 
-2020-2021,Non-Federal,Fujairah,Local,Female,41,19,1,8,80,40,7, 196 
-2020-2021,Non-Federal,Fujairah,Local,Male,35,19,4,8,80,40,3, 189 
-2020-2021,Non-Federal,Ras Al Khaimah,Expat,Female,186,19,2,5,80,40,7, 339 
-2020-2021,Non-Federal,Ras Al Khaimah,Expat,Male,145,19,55,1,80,40,13, 353 
-2020-2021,Non-Federal,Ras Al Khaimah,Local,Female,81,19,4,7,80,40,40, 271 
-2020-2021,Non-Federal,Ras Al Khaimah,Local,Male,18,19,55,8,80,40,23, 243 
-2020-2021,Non-Federal,Sharjah,Expat,Female,1435,19,3,11,4,40,139," 1,651 "
-2020-2021,Non-Federal,Sharjah,Expat,Male,1035,19,4,7,80,40,97," 1,282 "
-2020-2021,Non-Federal,Sharjah,Local,Female,902,19,2,11,42,40,312," 1,328 "
-2020-2021,Non-Federal,Sharjah,Local,Male,367,19,1,13,1,40,163, 604 
-2020-2021,Non-Federal,Umm Al-Quwain,Expat,Female,15,19,55,8,80,40,132, 349 
-2020-2021,Non-Federal,Umm Al-Quwain,Expat,Male,14,19,55,8,80,40,132, 348 
-2020-2021,Non-Federal,Umm Al-Quwain,Local,Female,15,19,55,8,80,40,132, 349 
-2020-2021,Non-Federal,Umm Al-Quwain,Local,Male,34,19,55,8,80,40,132, 368 
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,0,,,,,
+2012-2013,Federal,Abu Dhabi,Expat,Female,235,19,55,8,80,40,40,477
+2012-2013,Federal,Abu Dhabi,Expat,Male,126,19,10,8,80,1,42,286
+2012-2013,Federal,Abu Dhabi,Local,Female,"1,838",5,532,8,80,192,280,"2,935"
+2012-2013,Federal,Abu Dhabi,Local,Male,886,54,229,8,80,193,185,"1,635"
+2012-2013,Federal,Dubai,Expat,Female,4,19,55,8,80,40,132,338
+2012-2013,Federal,Dubai,Expat,Male,1,19,55,8,80,40,132,335
+2012-2013,Federal,Dubai,Local,Female,709,19,149,8,80,199,109,"1,273"
+2012-2013,Federal,Dubai,Local,Male,316,19,73,8,80,201,10,707
+2012-2013,Federal,Fujairah,Local,Female,134,19,137,8,80,6,132,516
+2012-2013,Federal,Fujairah,Local,Male,10,14,41,8,80,1,132,286
+2012-2013,Federal,Ras Al Khaimah,Local,Female,85,19,143,8,80,48,15,398
+2012-2013,Federal,Ras Al Khaimah,Local,Male,40,19,35,8,80,34,5,221
+2012-2013,Federal,Sharjah,Local,Female,351,19,128,8,80,163,9,758
+2012-2013,Federal,Sharjah,Local,Male,102,19,58,8,80,25,4,296
+2012-2013,Non-Federal,Abu Dhabi,Expat,Female,564,1,218,8,650,40,166,"1,647"
+2012-2013,Non-Federal,Abu Dhabi,Expat,Male,386,19,122,8,62,40,200,837
+2012-2013,Non-Federal,Abu Dhabi,Local,Female,476,8,228,8,84,40,123,967
+2012-2013,Non-Federal,Abu Dhabi,Local,Male,559,16,286,8,72,16,131,"1,088"
+2012-2013,Non-Federal,Ajman,Expat,Female,382,19,55,8,99,40,20,623
+2012-2013,Non-Federal,Ajman,Expat,Male,291,19,55,8,5,40,2,420
+2012-2013,Non-Federal,Ajman,Local,Female,141,19,55,8,1,40,10,274
+2012-2013,Non-Federal,Ajman,Local,Male,160,19,55,8,80,40,12,374
+2012-2013,Non-Federal,Dubai,Expat,Female,914,19,20,2,16,40,406,"1,417"
+2012-2013,Non-Federal,Dubai,Expat,Male,599,3,43,2,9,1,476,"1,133"
+2012-2013,Non-Federal,Dubai,Local,Female,375,1,9,5,5,3,245,643
+2012-2013,Non-Federal,Dubai,Local,Male,890,6,18,8,1,4,457,"1,384"
+2012-2013,Non-Federal,Fujairah,Expat,Female,64,19,55,8,186,40,132,504
+2012-2013,Non-Federal,Fujairah,Expat,Male,27,19,55,8,80,40,132,361
+2012-2013,Non-Federal,Fujairah,Local,Female,148,19,4,8,1,40,132,352
+2012-2013,Non-Federal,Fujairah,Local,Male,100,19,55,8,80,40,132,434
+2012-2013,Non-Federal,Ras Al Khaimah,Expat,Female,155,19,55,8,80,40,6,363
+2012-2013,Non-Federal,Ras Al Khaimah,Expat,Male,78,19,55,8,80,40,2,282
+2012-2013,Non-Federal,Ras Al Khaimah,Local,Female,86,19,55,8,80,40,3,291
+2012-2013,Non-Federal,Ras Al Khaimah,Local,Male,29,19,55,8,80,40,132,363
+2012-2013,Non-Federal,Sharjah,Expat,Female,894,19,2,8,80,5,63,"1,071"
+2012-2013,Non-Federal,Sharjah,Expat,Male,744,19,2,8,80,40,88,981
+2012-2013,Non-Federal,Sharjah,Local,Female,611,19,51,8,80,40,92,901
+2012-2013,Non-Federal,Sharjah,Local,Male,286,19,14,8,80,40,160,607
+2013-2014,Federal,Abu Dhabi,Expat,Female,249,19,55,11,80,40,82,536
+2013-2014,Federal,Abu Dhabi,Expat,Male,164,19,3,2,80,40,73,381
+2013-2014,Federal,Abu Dhabi,Local,Female,"1,848",19,92,4,80,182,310,"2,535"
+2013-2014,Federal,Abu Dhabi,Local,Male,948,19,136,8,80,189,177,"1,557"
+2013-2014,Federal,Dubai,Expat,Female,8,19,55,8,80,40,4,214
+2013-2014,Federal,Dubai,Expat,Male,1,19,55,8,80,40,5,208
+2013-2014,Federal,Dubai,Local,Female,826,19,14,8,80,79,30,"1,056"
+2013-2014,Federal,Dubai,Local,Male,438,19,14,8,80,100,38,697
+2013-2014,Federal,Fujairah,Local,Female,158,19,20,8,80,10,6,301
+2013-2014,Federal,Fujairah,Local,Male,24,19,6,8,80,40,1,178
+2013-2014,Federal,Ras Al Khaimah,Local,Female,116,19,11,8,80,18,8,260
+2013-2014,Federal,Ras Al Khaimah,Local,Male,67,19,9,8,80,10,1,194
+2013-2014,Federal,Sharjah,Local,Female,354,19,10,8,80,45,2,518
+2013-2014,Federal,Sharjah,Local,Male,91,19,6,8,80,16,1,221
+2013-2014,Federal,Abu Dhabi,Expat,Female,424,19,55,8,80,40,1,627
+2013-2014,Federal,Abu Dhabi,Local,Female,1,19,55,8,80,40,3,206
+2013-2014,Federal,Abu Dhabi,Local,Male,4,19,55,8,80,40,132,338
+2013-2014,Non-Federal,Abu Dhabi,Expat,Female,668,19,294,8,799,40,87,"1,915"
+2013-2014,Non-Federal,Abu Dhabi,Expat,Male,514,1,182,8,77,40,138,960
+2013-2014,Non-Federal,Abu Dhabi,Local,Female,627,1,396,8,48,3,176,"1,259"
+2013-2014,Non-Federal,Abu Dhabi,Local,Male,"1,036",10,478,8,53,64,174,"1,823"
+2013-2014,Non-Federal,Ajman,Expat,Female,538,19,55,8,51,40,21,732
+2013-2014,Non-Federal,Ajman,Expat,Male,473,19,55,8,6,40,10,611
+2013-2014,Non-Federal,Ajman,Local,Female,186,19,55,8,80,40,15,403
+2013-2014,Non-Federal,Ajman,Local,Male,195,19,55,8,80,40,7,404
+2013-2014,Non-Federal,Dubai,Expat,Female,"1,183",19,51,4,4,15,428,"1,704"
+2013-2014,Non-Federal,Dubai,Expat,Male,891,1,68,8,3,56,553,"1,580"
+2013-2014,Non-Federal,Dubai,Local,Female,472,1,12,5,1,40,365,896
+2013-2014,Non-Federal,Dubai,Local,Male,"1,239",4,22,1,1,5,"1,030","2,302"
+2013-2014,Non-Federal,Fujairah,Expat,Female,63,19,55,8,172,40,132,489
+2013-2014,Non-Federal,Fujairah,Expat,Male,46,19,55,8,80,40,132,380
+2013-2014,Non-Federal,Fujairah,Local,Female,138,19,55,8,1,40,132,393
+2013-2014,Non-Federal,Fujairah,Local,Male,121,19,55,8,80,40,132,455
+2013-2014,Non-Federal,Ras Al Khaimah,Expat,Female,312,19,55,8,80,40,15,529
+2013-2014,Non-Federal,Ras Al Khaimah,Expat,Male,136,19,55,8,80,40,3,341
+2013-2014,Non-Federal,Ras Al Khaimah,Local,Female,141,19,55,8,80,40,7,350
+2013-2014,Non-Federal,Ras Al Khaimah,Local,Male,22,19,55,8,80,40,132,356
+2013-2014,Non-Federal,Sharjah,Expat,Female,727,19,109,8,3,40,51,957
+2013-2014,Non-Federal,Sharjah,Expat,Male,539,19,55,8,80,40,80,821
+2013-2014,Non-Federal,Sharjah,Local,Female,608,19,61,1,80,40,103,912
+2013-2014,Non-Federal,Sharjah,Local,Male,291,19,16,1,80,40,140,587
+2014-2015,Federal,Abu Dhabi,Expat,Female,277,19,3,9,80,2,85,475
+2014-2015,Federal,Abu Dhabi,Expat,Male,149,19,1,5,80,1,83,338
+2014-2015,Federal,Abu Dhabi,Local,Female,"1,843",20,166,6,80,113,298,"2,526"
+2014-2015,Federal,Abu Dhabi,Local,Male,754,116,51,8,80,170,144,"1,323"
+2014-2015,Federal,Dubai,Expat,Female,8,19,1,8,80,40,5,161
+2014-2015,Federal,Dubai,Expat,Male,7,19,55,8,80,40,5,214
+2014-2015,Federal,Dubai,Local,Female,880,73,70,8,80,103,27,"1,241"
+2014-2015,Federal,Dubai,Local,Male,206,21,14,8,80,71,34,434
+2014-2015,Federal,Fujairah,Local,Female,102,19,7,8,80,11,3,230
+2014-2015,Federal,Fujairah,Local,Male,10,19,1,8,80,8,132,258
+2014-2015,Federal,Ras Al Khaimah,Local,Female,106,2,26,8,80,40,2,264
+2014-2015,Federal,Ras Al Khaimah,Local,Male,41,9,14,8,80,7,132,291
+2014-2015,Federal,Sharjah,Local,Female,205,19,20,8,80,36,1,369
+2014-2015,Federal,Sharjah,Local,Male,50,1,11,8,80,9,132,291
+2014-2015,Federal,Abu Dhabi,Expat,Female,424,19,55,8,80,40,1,627
+2014-2015,Federal,Abu Dhabi,Local,Female,424,19,55,8,80,40,4,630
+2014-2015,Federal,Abu Dhabi,Local,Male,424,19,55,8,80,40,1,627
+2014-2015,Non-Federal,Abu Dhabi,Expat,Female,573,4,349,8,750,40,141,"1,865"
+2014-2015,Non-Federal,Abu Dhabi,Expat,Male,508,3,145,1,68,40,219,984
+2014-2015,Non-Federal,Abu Dhabi,Local,Female,639,6,194,8,1,27,274,"1,149"
+2014-2015,Non-Federal,Abu Dhabi,Local,Male,"1,365",9,397,1,80,65,258,"2,175"
+2014-2015,Non-Federal,Ajman,Expat,Female,616,19,2,8,78,40,20,783
+2014-2015,Non-Federal,Ajman,Expat,Male,482,19,55,8,5,40,15,624
+2014-2015,Non-Federal,Ajman,Local,Female,203,19,8,8,80,40,18,376
+2014-2015,Non-Federal,Ajman,Local,Male,164,19,55,8,80,40,23,389
+2014-2015,Non-Federal,Dubai,Expat,Female,"1,209",16,53,2,80,36,459,"1,855"
+2014-2015,Non-Federal,Dubai,Expat,Male,725,40,119,2,80,92,576,"1,634"
+2014-2015,Non-Federal,Dubai,Local,Female,310,19,11,7,80,3,332,762
+2014-2015,Non-Federal,Dubai,Local,Male,"1,006",19,37,1,80,40,709,"1,892"
+2014-2015,Non-Federal,Fujairah,Expat,Female,89,19,55,8,252,40,132,595
+2014-2015,Non-Federal,Fujairah,Expat,Male,37,19,55,8,80,40,132,371
+2014-2015,Non-Federal,Fujairah,Local,Female,103,19,1,8,80,40,132,383
+2014-2015,Non-Federal,Fujairah,Local,Male,99,19,55,8,80,40,132,433
+2014-2015,Non-Federal,Ras Al Khaimah,Expat,Female,168,19,55,8,80,40,9,379
+2014-2015,Non-Federal,Ras Al Khaimah,Expat,Male,67,19,55,8,80,40,3,272
+2014-2015,Non-Federal,Ras Al Khaimah,Local,Female,46,19,55,8,80,40,16,264
+2014-2015,Non-Federal,Ras Al Khaimah,Local,Male,15,19,55,8,80,40,1,218
+2014-2015,Non-Federal,Sharjah,Expat,Female,"1,184",19,51,8,80,40,87,"1,469"
+2014-2015,Non-Federal,Sharjah,Expat,Male,925,19,16,8,80,40,119,"1,207"
+2014-2015,Non-Federal,Sharjah,Local,Female,807,19,50,2,80,40,128,"1,126"
+2014-2015,Non-Federal,Sharjah,Local,Male,356,19,11,5,80,40,131,642
+2014-2015,Non-Federal,Umm Al Quwain,Local,Female,2,19,55,8,80,40,132,336
+2014-2015,Non-Federal,Umm Al Quwain,Local,Male,1,19,55,8,80,40,132,335
+2015-2016,Federal,Abu Dhabi,Expat,Female,403,19,6,5,80,40,81,634
+2015-2016,Federal,Abu Dhabi,Expat,Male,194,19,55,4,80,40,62,454
+2015-2016,Federal,Abu Dhabi,Local,Female,"2,211",19,146,6,80,4,225,"2,691"
+2015-2016,Federal,Abu Dhabi,Local,Male,729,19,39,3,80,19,122,"1,011"
+2015-2016,Federal,Dubai,Expat,Female,16,19,55,8,80,40,6,224
+2015-2016,Federal,Dubai,Expat,Male,8,19,1,8,80,40,4,160
+2015-2016,Federal,Dubai,Local,Female,908,19,25,8,80,1,18,"1,059"
+2015-2016,Federal,Dubai,Local,Male,394,19,13,8,80,12,5,531
+2015-2016,Federal,Fujairah,Local,Female,169,19,26,8,80,16,8,326
+2015-2016,Federal,Fujairah,Local,Male,57,19,28,8,80,40,132,364
+2015-2016,Federal,Ras Al Khaimah,Local,Female,189,19,45,8,80,40,5,386
+2015-2016,Federal,Ras Al Khaimah,Local,Male,68,19,48,8,80,40,3,266
+2015-2016,Federal,Sharjah,Expat,Female,1,19,1,8,80,40,132,281
+2015-2016,Federal,Sharjah,Local,Female,288,19,29,8,80,2,132,558
+2015-2016,Federal,Sharjah,Local,Male,74,19,8,8,80,40,132,361
+2015-2016,Federal,Abu Dhabi,Expat,Male,424,19,55,8,80,40,1,627
+2015-2016,Federal,Abu Dhabi,Local,Male,424,19,55,8,80,40,2,628
+2015-2016,Non-Federal,Abu Dhabi,Expat,Female,682,51,289,4,927,50,185,"2,188"
+2015-2016,Non-Federal,Abu Dhabi,Expat,Male,513,11,92,9,47,6,188,866
+2015-2016,Non-Federal,Abu Dhabi,Local,Female,693,23,222,2,30,34,340,"1,344"
+2015-2016,Non-Federal,Abu Dhabi,Local,Male,"1,169",10,404,5,19,83,258,"1,948"
+2015-2016,Non-Federal,Ajman,Expat,Female,692,19,19,8,12,40,36,826
+2015-2016,Non-Federal,Ajman,Expat,Male,581,19,7,8,80,40,18,753
+2015-2016,Non-Federal,Ajman,Local,Female,212,19,55,8,80,40,11,425
+2015-2016,Non-Federal,Ajman,Local,Male,269,19,55,8,1,40,21,413
+2015-2016,Non-Federal,Dubai,Expat,Female,"1,396",10,39,4,80,56,450,"2,035"
+2015-2016,Non-Federal,Dubai,Expat,Male,855,31,122,1,80,91,593,"1,773"
+2015-2016,Non-Federal,Dubai,Local,Female,414,1,8,12,80,18,376,909
+2015-2016,Non-Federal,Dubai,Local,Male,"1,981",1,33,8,80,13,424,"2,540"
+2015-2016,Non-Federal,Fujairah,Expat,Female,95,19,55,8,67,40,132,416
+2015-2016,Non-Federal,Fujairah,Expat,Male,47,19,55,8,80,40,132,381
+2015-2016,Non-Federal,Fujairah,Local,Female,119,19,55,8,80,40,132,453
+2015-2016,Non-Federal,Fujairah,Local,Male,86,19,55,8,80,40,132,420
+2015-2016,Non-Federal,Ras Al Khaimah,Expat,Female,152,19,55,8,80,40,17,371
+2015-2016,Non-Federal,Ras Al Khaimah,Expat,Male,69,19,55,8,80,40,4,275
+2015-2016,Non-Federal,Ras Al Khaimah,Local,Female,44,19,55,8,80,40,21,267
+2015-2016,Non-Federal,Ras Al Khaimah,Local,Male,6,19,55,8,80,40,1,209
+2015-2016,Non-Federal,Sharjah,Expat,Female,830,19,8,8,80,4,37,986
+2015-2016,Non-Federal,Sharjah,Expat,Male,593,19,14,3,80,40,45,794
+2015-2016,Non-Federal,Sharjah,Local,Female,784,19,146,3,80,40,122,"1,194"
+2015-2016,Non-Federal,Sharjah,Local,Male,255,19,89,9,80,40,126,618
+2015-2016,Non-Federal,Umm Al Quwain,Expat,Female,2,19,55,8,80,40,132,336
+2015-2016,Non-Federal,Umm Al Quwain,Expat,Male,5,19,55,8,80,40,132,339
+2015-2016,Non-Federal,Umm Al Quwain,Local,Female,5,19,55,8,80,40,132,339
+2015-2016,Non-Federal,Umm Al Quwain,Local,Male,7,19,55,8,80,40,132,341
+2016-2017,Federal,Abu Dhabi,Expat,Female,402,19,5,5,80,40,68,619
+2016-2017,Federal,Abu Dhabi,Expat,Male,227,19,1,3,80,40,46,416
+2016-2017,Federal,Abu Dhabi,Local,Female,"2,490",1,177,9,80,4,146,"2,907"
+2016-2017,Federal,Abu Dhabi,Local,Male,944,3,33,5,80,6,65,"1,136"
+2016-2017,Federal,Dubai,Expat,Female,25,19,1,8,80,40,2,175
+2016-2017,Federal,Dubai,Expat,Male,10,19,55,8,80,40,1,213
+2016-2017,Federal,Dubai,Local,Female,994,19,27,8,80,40,7,"1,175"
+2016-2017,Federal,Dubai,Local,Male,446,19,5,8,80,1,132,691
+2016-2017,Federal,Fujairah,Expat,Female,1,19,1,8,80,40,132,281
+2016-2017,Federal,Fujairah,Local,Female,306,19,39,8,80,1,132,585
+2016-2017,Federal,Fujairah,Local,Male,47,19,8,8,80,40,132,334
+2016-2017,Federal,Ras Al Khaimah,Expat,Female,8,19,55,8,80,40,132,342
+2016-2017,Federal,Ras Al Khaimah,Expat,Male,2,19,55,8,80,40,132,336
+2016-2017,Federal,Ras Al Khaimah,Local,Female,264,19,41,8,80,40,4,456
+2016-2017,Federal,Ras Al Khaimah,Local,Male,97,19,14,8,80,40,132,390
+2016-2017,Federal,Sharjah,Expat,Female,15,19,2,8,80,40,132,296
+2016-2017,Federal,Sharjah,Expat,Male,9,19,55,8,80,40,132,343
+2016-2017,Federal,Sharjah,Local,Female,388,19,44,8,80,40,132,711
+2016-2017,Federal,Sharjah,Local,Male,197,19,14,8,80,40,132,490
+2016-2017,Non-Federal,Abu Dhabi,Expat,Female,751,19,117,11,161,27,166,"1,252"
+2016-2017,Non-Federal,Abu Dhabi,Expat,Male,523,19,91,22,12,1,278,946
+2016-2017,Non-Federal,Abu Dhabi,Local,Female,855,2,152,10,80,51,393,"1,543"
+2016-2017,Non-Federal,Abu Dhabi,Local,Male,"1,426",3,232,5,80,65,357,"2,168"
+2016-2017,Non-Federal,Ajman,Expat,Female,738,19,5,8,7,40,20,837
+2016-2017,Non-Federal,Ajman,Expat,Male,619,19,1,8,80,40,27,794
+2016-2017,Non-Federal,Ajman,Local,Female,226,19,4,8,1,40,25,323
+2016-2017,Non-Federal,Ajman,Local,Male,299,19,55,8,80,40,33,534
+2016-2017,Non-Federal,Dubai,Expat,Female,"1,492",10,50,4,80,21,393,"2,050"
+2016-2017,Non-Federal,Dubai,Expat,Male,914,14,147,5,80,83,541,"1,784"
+2016-2017,Non-Federal,Dubai,Local,Female,376,1,19,14,80,4,319,813
+2016-2017,Non-Federal,Dubai,Local,Male,"1,362",1,19,7,80,14,427,"1,910"
+2016-2017,Non-Federal,Fujairah,Expat,Female,119,19,55,8,80,40,132,453
+2016-2017,Non-Federal,Fujairah,Expat,Male,50,19,55,8,80,40,132,384
+2016-2017,Non-Federal,Fujairah,Local,Female,125,19,55,8,80,40,132,459
+2016-2017,Non-Federal,Fujairah,Local,Male,104,19,55,8,80,40,132,438
+2016-2017,Non-Federal,Ras Al Khaimah,Expat,Female,192,19,55,8,80,40,8,402
+2016-2017,Non-Federal,Ras Al Khaimah,Expat,Male,93,19,55,8,80,40,13,308
+2016-2017,Non-Federal,Ras Al Khaimah,Local,Female,60,19,55,8,80,40,46,308
+2016-2017,Non-Federal,Ras Al Khaimah,Local,Male,7,19,55,8,80,40,15,224
+2016-2017,Non-Federal,Sharjah,Expat,Female,"1,554",19,21,1,5,4,130,"1,734"
+2016-2017,Non-Federal,Sharjah,Expat,Male,991,19,9,7,80,1,110,"1,217"
+2016-2017,Non-Federal,Sharjah,Local,Female,740,19,78,1,1,1,156,996
+2016-2017,Non-Federal,Sharjah,Local,Male,288,19,52,10,80,40,112,601
+2016-2017,Non-Federal,Umm Al Quwain,Expat,Female,8,19,55,8,80,40,132,342
+2016-2017,Non-Federal,Umm Al Quwain,Expat,Male,1,19,55,8,80,40,132,335
+2016-2017,Non-Federal,Umm Al Quwain,Local,Female,8,19,55,8,80,40,132,342
+2016-2017,Non-Federal,Umm Al Quwain,Local,Male,3,19,55,8,80,40,132,337
+2017-2018,Federal,Abu Dhabi,Expat,Female,434,19,4,6,80,40,68,651
+2017-2018,Federal,Abu Dhabi,Expat,Male,228,19,2,3,80,40,50,422
+2017-2018,Federal,Abu Dhabi,Local,Female,"2,682",175,58,10,80,40,132,"3,177"
+2017-2018,Federal,Abu Dhabi,Local,Male,987,13,15,6,80,40,52,"1,193"
+2017-2018,Federal,Dubai,Expat,Female,36,19,1,8,80,40,1,185
+2017-2018,Federal,Dubai,Expat,Male,23,19,55,8,80,40,2,227
+2017-2018,Federal,Dubai,Local,Female,"1,073",1,17,8,80,40,5,"1,224"
+2017-2018,Federal,Dubai,Local,Male,455,19,3,8,80,40,1,606
+2017-2018,Federal,Fujairah,Expat,Female,5,19,1,8,80,40,132,285
+2017-2018,Federal,Fujairah,Expat,Male,4,19,55,8,80,40,132,338
+2017-2018,Federal,Fujairah,Local,Female,260,19,8,8,80,40,132,547
+2017-2018,Federal,Fujairah,Local,Male,64,19,2,8,80,40,132,345
+2017-2018,Federal,Abu Dhabi,Local,Female,424,49,55,8,80,40,132,788
+2017-2018,Federal,Ras Al Khaimah,Expat,Female,13,19,1,8,80,40,132,293
+2017-2018,Federal,Ras Al Khaimah,Expat,Male,6,19,55,8,80,40,132,340
+2017-2018,Federal,Ras Al Khaimah,Local,Female,304,2,7,8,80,40,132,573
+2017-2018,Federal,Ras Al Khaimah,Local,Male,114,19,1,8,80,40,132,394
+2017-2018,Federal,Sharjah,Expat,Female,53,19,1,8,80,40,132,333
+2017-2018,Federal,Sharjah,Expat,Male,15,19,55,8,80,40,132,349
+2017-2018,Federal,Sharjah,Local,Female,471,1,7,8,80,40,132,739
+2017-2018,Federal,Sharjah,Local,Male,173,19,5,8,80,40,132,457
+2017-2018,Non-Federal,Abu Dhabi,Expat,Female,990,7,93,3,491,190,141,"1,915"
+2017-2018,Non-Federal,Abu Dhabi,Expat,Male,665,19,61,9,53,29,174,"1,010"
+2017-2018,Non-Federal,Abu Dhabi,Local,Female,990,183,100,7,80,30,325,"1,715"
+2017-2018,Non-Federal,Abu Dhabi,Local,Male,"1,437",27,125,6,80,14,272,"1,961"
+2017-2018,Non-Federal,Ajman,Expat,Female,767,19,2,8,29,40,23,888
+2017-2018,Non-Federal,Ajman,Expat,Male,548,19,55,8,13,40,34,717
+2017-2018,Non-Federal,Ajman,Local,Female,214,19,2,8,80,40,30,393
+2017-2018,Non-Federal,Ajman,Local,Male,160,19,55,8,80,40,60,422
+2017-2018,Non-Federal,Dubai,Expat,Female,"1,512",15,50,12,1,3,414,"2,007"
+2017-2018,Non-Federal,Dubai,Expat,Male,"1,030",71,88,7,3,6,469,"1,674"
+2017-2018,Non-Federal,Dubai,Local,Female,341,3,14,17,80,13,343,811
+2017-2018,Non-Federal,Dubai,Local,Male,785,3,31,5,2,6,526,"1,358"
+2017-2018,Non-Federal,Fujairah,Expat,Female,115,19,55,8,80,40,132,449
+2017-2018,Non-Federal,Fujairah,Expat,Male,63,19,1,8,80,40,132,343
+2017-2018,Non-Federal,Fujairah,Local,Female,122,19,1,8,80,40,24,294
+2017-2018,Non-Federal,Fujairah,Local,Male,89,19,2,8,80,40,8,246
+2017-2018,Non-Federal,Abu Dhabi,Expat,Female,27,19,5,8,80,40,132,311
+2017-2018,Non-Federal,Abu Dhabi,Expat,Male,424,47,8,8,80,40,132,739
+2017-2018,Non-Federal,Abu Dhabi,Local,Female,5,19,9,8,80,40,132,293
+2017-2018,Non-Federal,Abu Dhabi,Local,Male,424,25,22,8,80,40,132,731
+2017-2018,Non-Federal,Ras Al Khaimah,Expat,Female,371,19,55,8,80,40,12,585
+2017-2018,Non-Federal,Ras Al Khaimah,Expat,Male,184,19,55,8,80,40,13,399
+2017-2018,Non-Federal,Ras Al Khaimah,Local,Female,107,19,55,8,80,40,48,357
+2017-2018,Non-Federal,Ras Al Khaimah,Local,Male,11,19,55,8,80,40,10,223
+2017-2018,Non-Federal,Sharjah,Expat,Female,"1,570",19,48,8,8,40,110,"1,803"
+2017-2018,Non-Federal,Sharjah,Expat,Male,"1,127",16,49,10,7,40,107,"1,356"
+2017-2018,Non-Federal,Sharjah,Local,Female,750,19,13,3,51,40,163,"1,039"
+2017-2018,Non-Federal,Sharjah,Local,Male,225,21,8,14,74,40,99,481
+2017-2018,Non-Federal,Umm Al Quwain,Expat,Female,26,19,55,8,80,40,132,360
+2017-2018,Non-Federal,Umm Al Quwain,Expat,Male,25,19,55,8,80,40,132,359
+2017-2018,Non-Federal,Umm Al Quwain,Local,Female,13,19,55,8,80,40,132,347
+2017-2018,Non-Federal,Umm Al Quwain,Local,Male,36,3,55,8,80,40,132,354
+2018-2019,Federal,Abu Dhabi,Expat,Female,342,19,3,9,80,40,82,575
+2018-2019,Federal,Abu Dhabi,Expat,Male,128,19,55,4,80,40,63,389
+2018-2019,Federal,Abu Dhabi,Local,Female,"2,992",19,7,13,80,40,192,"3,343"
+2018-2019,Federal,Abu Dhabi,Local,Male,896,19,5,10,80,40,95,"1,145"
+2018-2019,Federal,Dubai,Expat,Female,31,19,55,8,80,40,132,365
+2018-2019,Federal,Dubai,Expat,Male,6,19,55,8,80,40,132,340
+2018-2019,Federal,Dubai,Local,Female,"1,077",19,18,8,80,40,7,"1,249"
+2018-2019,Federal,Dubai,Local,Male,440,19,55,8,80,40,3,645
+2018-2019,Federal,Fujairah,Expat,Female,1,19,55,8,80,40,132,335
+2018-2019,Federal,Fujairah,Local,Female,198,19,55,8,80,40,132,532
+2018-2019,Federal,Fujairah,Local,Male,74,19,2,8,80,40,132,355
+2018-2019,Federal,Ras Al Khaimah,Expat,Female,7,19,55,8,80,40,132,341
+2018-2019,Federal,Ras Al Khaimah,Expat,Male,1,19,55,8,80,40,132,335
+2018-2019,Federal,Ras Al Khaimah,Local,Female,288,26,12,8,80,40,132,586
+2018-2019,Federal,Ras Al Khaimah,Local,Male,82,19,1,8,80,40,132,362
+2018-2019,Federal,Sharjah,Expat,Female,26,19,55,8,80,40,132,360
+2018-2019,Federal,Sharjah,Expat,Male,6,19,55,8,80,40,132,340
+2018-2019,Federal,Sharjah,Local,Female,543,1,2,8,80,40,132,806
+2018-2019,Federal,Sharjah,Local,Male,173,19,55,8,80,40,132,507
+2018-2019,Non-Federal,Abu Dhabi,Expat,Female,962,19,80,8,366,171,157,"1,763"
+2018-2019,Non-Federal,Abu Dhabi,Expat,Male,732,19,50,16,62,34,108,"1,021"
+2018-2019,Non-Federal,Abu Dhabi,Local,Female,"1,110",4,128,4,31,87,516,"1,880"
+2018-2019,Non-Federal,Abu Dhabi,Local,Male,"1,204",19,99,4,18,42,449,"1,835"
+2018-2019,Non-Federal,Ajman,Expat,Female,757,19,27,8,75,10,36,932
+2018-2019,Non-Federal,Ajman,Expat,Male,571,19,3,8,16,40,35,692
+2018-2019,Non-Federal,Ajman,Local,Female,214,19,10,8,3,1,36,291
+2018-2019,Non-Federal,Ajman,Local,Male,193,19,55,8,80,40,48,443
+2018-2019,Non-Federal,Dubai,Expat,Female,"1,165",25,17,18,63,4,464,"1,756"
+2018-2019,Non-Federal,Dubai,Expat,Male,"1,024",39,31,8,14,9,528,"1,653"
+2018-2019,Non-Federal,Dubai,Local,Female,330,1,11,17,4,3,395,761
+2018-2019,Non-Federal,Dubai,Local,Male,546,3,7,13,80,5,363,"1,017"
+2018-2019,Non-Federal,Fujairah,Expat,Female,28,19,55,8,80,40,1,231
+2018-2019,Non-Federal,Fujairah,Expat,Male,17,19,55,8,80,40,132,351
+2018-2019,Non-Federal,Fujairah,Local,Female,29,19,55,8,80,40,10,241
+2018-2019,Non-Federal,Fujairah,Local,Male,26,19,55,8,80,40,22,250
+2018-2019,Non-Federal,Ras Al Khaimah,Expat,Female,244,19,55,8,80,40,24,470
+2018-2019,Non-Federal,Ras Al Khaimah,Expat,Male,169,19,55,8,80,40,11,382
+2018-2019,Non-Federal,Ras Al Khaimah,Local,Female,64,19,3,8,80,40,29,243
+2018-2019,Non-Federal,Ras Al Khaimah,Local,Male,13,19,55,8,80,40,13,228
+2018-2019,Non-Federal,Sharjah,Expat,Female,"1,539",19,23,2,80,40,119,"1,822"
+2018-2019,Non-Federal,Sharjah,Expat,Male,"1,053",19,14,5,80,40,101,"1,312"
+2018-2019,Non-Federal,Sharjah,Local,Female,823,19,95,6,80,40,190,"1,253"
+2018-2019,Non-Federal,Sharjah,Local,Male,195,19,98,17,80,40,90,539
+2018-2019,Non-Federal,Umm Al Quwain,Expat,Female,22,19,55,8,80,40,132,356
+2018-2019,Non-Federal,Umm Al Quwain,Expat,Male,18,19,55,8,80,40,132,352
+2018-2019,Non-Federal,Umm Al Quwain,Local,Female,18,19,55,8,80,40,132,352
+2018-2019,Non-Federal,Umm Al Quwain,Local,Male,43,19,55,8,80,40,132,377
+2019-2020,Federal,Abu Dhabi,Expat,Female,243,19,55,16,80,40,75,528
+2019-2020,Federal,Abu Dhabi,Expat,Male,147,19,55,9,80,40,37,387
+2019-2020,Federal,Abu Dhabi,Local,Female,2807,19,10,8,53,40,173,"3,110"
+2019-2020,Federal,Abu Dhabi,Local,Male,683,19,1,2,35,40,75,855
+2019-2020,Federal,Dubai,Expat,Female,30,19,55,8,80,40,132,364
+2019-2020,Federal,Dubai,Expat,Male,11,2,55,8,80,40,132,328
+2019-2020,Federal,Dubai,Local,Female,851,26,1,8,80,1,8,975
+2019-2020,Federal,Dubai,Local,Male,230,6,55,8,80,40,3,422
+2019-2020,Federal,Fujairah,Expat,Female,424,1,55,8,80,40,132,740
+2019-2020,Federal,Fujairah,Expat,Male,1,1,55,8,80,40,132,317
+2019-2020,Federal,Fujairah,Local,Female,211,27,1,8,80,40,132,499
+2019-2020,Federal,Fujairah,Local,Male,42,5,4,8,80,40,132,311
+2019-2020,Federal,Ras Al Khaimah,Expat,Female,6,1,55,8,80,40,132,322
+2019-2020,Federal,Ras Al Khaimah,Expat,Male,9,1,55,8,80,40,132,325
+2019-2020,Federal,Ras Al Khaimah,Local,Female,197,46,14,8,80,40,132,517
+2019-2020,Federal,Ras Al Khaimah,Local,Male,69,8,55,8,80,40,132,392
+2019-2020,Federal,Sharjah,Expat,Female,32,4,55,8,80,40,132,351
+2019-2020,Federal,Sharjah,Expat,Male,14,6,55,8,80,40,132,335
+2019-2020,Federal,Sharjah,Local,Female,369,66,3,8,80,40,132,698
+2019-2020,Federal,Sharjah,Local,Male,172,8,2,8,80,40,132,442
+2019-2020,Non-Federal,Abu Dhabi,Expat,Female,978,19,57,10,334,188,138,"1,724"
+2019-2020,Non-Federal,Abu Dhabi,Expat,Male,685,19,54,22,76,40,109,"1,005"
+2019-2020,Non-Federal,Abu Dhabi,Local,Female,1162,117,224,15,2,110,477,"2,107"
+2019-2020,Non-Federal,Abu Dhabi,Local,Male,1345,7,420,14,1,24,505,"2,316"
+2019-2020,Non-Federal,Ajman,Expat,Female,848,19,4,8,120,40,47,"1,086"
+2019-2020,Non-Federal,Ajman,Expat,Male,508,19,55,8,30,40,29,689
+2019-2020,Non-Federal,Ajman,Local,Female,254,19,4,8,3,40,57,385
+2019-2020,Non-Federal,Ajman,Local,Male,193,19,55,8,1,40,47,363
+2019-2020,Non-Federal,Dubai,Expat,Female,1002,2,10,20,62,7,447,"1,550"
+2019-2020,Non-Federal,Dubai,Expat,Male,988,19,14,14,17,18,447,"1,517"
+2019-2020,Non-Federal,Dubai,Local,Female,407,19,6,15,1,3,477,928
+2019-2020,Non-Federal,Dubai,Local,Male,660,19,5,11,80,8,562,"1,345"
+2019-2020,Non-Federal,Fujairah,Expat,Female,5,19,55,8,80,40,1,208
+2019-2020,Non-Federal,Fujairah,Expat,Male,4,19,55,8,80,40,1,207
+2019-2020,Non-Federal,Fujairah,Local,Female,22,19,55,8,80,40,21,245
+2019-2020,Non-Federal,Fujairah,Local,Male,27,19,55,8,80,40,11,240
+2019-2020,Non-Federal,Ras Al Khaimah,Expat,Female,227,19,55,8,80,40,13,442
+2019-2020,Non-Federal,Ras Al Khaimah,Expat,Male,147,19,55,8,80,40,6,355
+2019-2020,Non-Federal,Ras Al Khaimah,Local,Female,66,19,4,8,80,40,42,259
+2019-2020,Non-Federal,Ras Al Khaimah,Local,Male,9,19,55,8,80,40,13,224
+2019-2020,Non-Federal,Sharjah,Expat,Female,1572,19,14,7,80,40,147,"1,879"
+2019-2020,Non-Federal,Sharjah,Expat,Male,1247,19,13,8,80,40,107,"1,514"
+2019-2020,Non-Federal,Sharjah,Local,Female,846,19,44,11,80,40,246,"1,286"
+2019-2020,Non-Federal,Sharjah,Local,Male,229,19,65,19,80,40,154,606
+2019-2020,Non-Federal,Umm Al-Quwain,Expat,Female,17,19,55,8,80,40,132,351
+2019-2020,Non-Federal,Umm Al-Quwain,Expat,Male,8,19,55,8,80,40,132,342
+2019-2020,Non-Federal,Umm Al-Quwain,Local,Female,20,19,55,8,80,40,132,354
+2019-2020,Non-Federal,Umm Al-Quwain,Local,Male,41,19,55,8,80,40,132,375
+2020-2021,Federal,Abu Dhabi,Expat,Female,247,19,55,15,1,2,78,417
+2020-2021,Federal,Abu Dhabi,Expat,Male,119,19,55,14,80,40,45,372
+2020-2021,Federal,Abu Dhabi,Local,Female,3527,19,30,9,20,10,208,"3,823"
+2020-2021,Federal,Abu Dhabi,Local,Male,788,19,84,5,20,4,66,986
+2020-2021,Federal,Dubai,Expat,Female,35,1,55,8,80,40,132,351
+2020-2021,Federal,Dubai,Expat,Male,10,19,55,8,80,40,132,344
+2020-2021,Federal,Dubai,Local,Female,1106,4,5,8,80,11,6,"1,220"
+2020-2021,Federal,Dubai,Local,Male,292,19,4,8,80,40,7,450
+2020-2021,Federal,Fujairah,Expat,Male,1,19,55,8,80,40,132,335
+2020-2021,Federal,Fujairah,Local,Female,245,19,2,8,80,2,132,488
+2020-2021,Federal,Fujairah,Local,Male,45,19,2,8,80,40,132,326
+2020-2021,Federal,Ras Al Khaimah,Expat,Female,2,19,55,8,80,40,132,336
+2020-2021,Federal,Ras Al Khaimah,Expat,Male,2,19,55,8,80,40,132,336
+2020-2021,Federal,Ras Al Khaimah,Local,Female,277,19,2,8,80,1,132,519
+2020-2021,Federal,Ras Al Khaimah,Local,Male,57,19,2,8,80,40,132,338
+2020-2021,Federal,Sharjah,Expat,Female,32,19,55,8,80,40,132,366
+2020-2021,Federal,Sharjah,Expat,Male,12,2,55,8,80,40,132,329
+2020-2021,Federal,Sharjah,Local,Female,532,8,20,8,80,4,132,784
+2020-2021,Federal,Sharjah,Local,Male,191,2,13,8,80,2,132,428
+2020-2021,Non-Federal,Abu Dhabi,Expat,Female,1010,19,58,14,318,70,143,"1,632"
+2020-2021,Non-Federal,Abu Dhabi,Expat,Male,724,19,30,3,46,6,134,962
+2020-2021,Non-Federal,Abu Dhabi,Local,Female,1307,69,463,16,3,155,617,"2,630"
+2020-2021,Non-Federal,Abu Dhabi,Local,Male,1727,6,358,11,80,56,607,"2,845"
+2020-2021,Non-Federal,Ajman,Expat,Female,920,19,14,8,89,40,70,"1,160"
+2020-2021,Non-Federal,Ajman,Expat,Male,567,19,14,8,22,40,35,705
+2020-2021,Non-Federal,Ajman,Local,Female,411,19,6,8,5,40,91,580
+2020-2021,Non-Federal,Ajman,Local,Male,276,19,55,8,2,40,44,444
+2020-2021,Non-Federal,Dubai,Expat,Female,1161,19,11,21,81,9,439,"1,741"
+2020-2021,Non-Federal,Dubai,Expat,Male,866,19,6,11,19,19,423,"1,363"
+2020-2021,Non-Federal,Dubai,Local,Female,388,19,8,34,2,3,474,928
+2020-2021,Non-Federal,Dubai,Local,Male,586,19,3,15,1,14,520,"1,158"
+2020-2021,Non-Federal,Fujairah,Expat,Female,14,19,55,8,80,40,132,348
+2020-2021,Non-Federal,Fujairah,Expat,Male,4,19,1,8,80,40,1,153
+2020-2021,Non-Federal,Fujairah,Local,Female,41,19,1,8,80,40,7,196
+2020-2021,Non-Federal,Fujairah,Local,Male,35,19,4,8,80,40,3,189
+2020-2021,Non-Federal,Ras Al Khaimah,Expat,Female,186,19,2,5,80,40,7,339
+2020-2021,Non-Federal,Ras Al Khaimah,Expat,Male,145,19,55,1,80,40,13,353
+2020-2021,Non-Federal,Ras Al Khaimah,Local,Female,81,19,4,7,80,40,40,271
+2020-2021,Non-Federal,Ras Al Khaimah,Local,Male,18,19,55,8,80,40,23,243
+2020-2021,Non-Federal,Sharjah,Expat,Female,1435,19,3,11,4,40,139,"1,651"
+2020-2021,Non-Federal,Sharjah,Expat,Male,1035,19,4,7,80,40,97,"1,282"
+2020-2021,Non-Federal,Sharjah,Local,Female,902,19,2,11,42,40,312,"1,328"
+2020-2021,Non-Federal,Sharjah,Local,Male,367,19,1,13,1,40,163,604
+2020-2021,Non-Federal,Umm Al-Quwain,Expat,Female,15,19,55,8,80,40,132,349
+2020-2021,Non-Federal,Umm Al-Quwain,Expat,Male,14,19,55,8,80,40,132,348
+2020-2021,Non-Federal,Umm Al-Quwain,Local,Female,15,19,55,8,80,40,132,349
+2020-2021,Non-Federal,Umm Al-Quwain,Local,Male,34,19,55,8,80,40,132,368
